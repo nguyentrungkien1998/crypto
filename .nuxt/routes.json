@@ -1,0 +1,52 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/nguyentrungkien/Desktop/thanhxuan/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index",
+        "path": "",
+        "component": "/Users/nguyentrungkien/Desktop/thanhxuan/client/pages/index/index.vue",
+        "chunkName": "pages/index/index",
+        "_name": "_84a0f9a6"
+      },
+      {
+        "name": "index-guide",
+        "path": "guide",
+        "component": "/Users/nguyentrungkien/Desktop/thanhxuan/client/pages/index/guide.vue",
+        "chunkName": "pages/index/guide",
+        "_name": "_720d7057"
+      },
+      {
+        "name": "index-history",
+        "path": "history",
+        "component": "/Users/nguyentrungkien/Desktop/thanhxuan/client/pages/index/history.vue",
+        "chunkName": "pages/index/history",
+        "_name": "_13b7692f"
+      },
+      {
+        "name": "index-mail",
+        "path": "mail",
+        "component": "/Users/nguyentrungkien/Desktop/thanhxuan/client/pages/index/mail.vue",
+        "chunkName": "pages/index/mail",
+        "_name": "_490effac"
+      },
+      {
+        "name": "index-setup",
+        "path": "setup",
+        "component": "/Users/nguyentrungkien/Desktop/thanhxuan/client/pages/index/setup.vue",
+        "chunkName": "pages/index/setup",
+        "_name": "_4ab1c758"
+      },
+      {
+        "name": "index-sieucapvippro",
+        "path": "sieucapvippro",
+        "component": "/Users/nguyentrungkien/Desktop/thanhxuan/client/pages/index/sieucapvippro.vue",
+        "chunkName": "pages/index/sieucapvippro",
+        "_name": "_09a1af57"
+      }
+    ],
+    "_name": "_c73f77ac"
+  }
+]
